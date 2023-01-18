@@ -1,0 +1,16 @@
+[
+    {
+        "email": "poojaarisella@gmail.com",
+        "password":"pooja123",
+        "firstName": "Pooja",
+        "lastName": "Shankar",
+        "designation": "Senior Software Engineer"
+    },
+    {
+        "email": "rajashekar@gmail.com",
+        "password":"shri123",
+        "firstName": "Rajashekar",
+        "lastName": "A",
+        "designation": "BIM Architect"
+    }
+]
